@@ -1,6 +1,6 @@
 ### Oiê! Sou a Carolina Quinelato (pode chamar de Carol 💖)
 
-- 👩🏽‍💻 Hoje trabalho como: Assistente de Customer Service
+- 👩🏽‍💻 Hoje trabalho como: Estagiária de Ciência de Dados
 - 🚀 Estudando: Estatística, Machine Learning e Data Viz
 - ✉️ Meu contato:  carolinaqfranchi@hotmail.com / https://www.linkedin.com/in/carolina-quinelato-franchi/
 
