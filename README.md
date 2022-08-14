@@ -1,7 +1,8 @@
 ### Oiê! Sou a Carolina Quinelato (pode chamar de Carol 💖)
 
-- 👩🏽‍💻 Hoje trabalho como: Estagiária de Ciência de Dados
+- 👩🏽‍💻 Hoje trabalho como: Estagiária de Ciência de Dados no Itaú
 - 🚀 Estudando: Estatística, Machine Learning e Data Viz
+- :pushpin: Projeto em andamento: Aplicativo de predição de subrevivência para câncer de mama
 - ✉️ Meu contato:  carolinaqfranchi@hotmail.com / https://www.linkedin.com/in/carolina-quinelato-franchi/
 
 
