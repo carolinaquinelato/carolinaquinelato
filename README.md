@@ -2,7 +2,8 @@
 
 - 👩🏽‍💻 Hoje trabalho como: Estagiária de Ciência de Dados no Itaú
 - 🚀 Estudando: Estatística, Machine Learning e Data Viz
-- :pushpin: Projeto em andamento: Aplicativo de predição de sobrevivência para câncer de mama
+- :pushpin: Projeto em andamento: Aplicativo de predição de sobrevivência para câncer de mama.
+https://github.com/carolinaquinelato/app_predicao_sobrevida
 - ✉️ Meu contato:  carolinaqfranchi@hotmail.com / https://www.linkedin.com/in/carolina-quinelato-franchi/
 
 
